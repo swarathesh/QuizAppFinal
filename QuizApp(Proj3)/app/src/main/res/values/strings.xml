@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp(Proj3)</string>
+    <string name="even"><b>Even</b>:Any integer that can be divided exactly by 2.</string>
+    <string name="odd"><b>odd</b>:Any integer that can not be divided exactly by 2</string>
+</resources>
